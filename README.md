@@ -8,7 +8,7 @@
 
 
 ## About
-A small thing for my darling !
+A small thing for my love !
    
 ## Demo
 [Click here !](https://leon-gaga.netlify.app/)
@@ -17,6 +17,3 @@ A small thing for my darling !
 <a href="https://www.facebook.com/nguyentuancoder/"><img align="left" width="150" height="150" src=""> </a>
 - Information in public on <a href="">__Blog__</a> ✍🏾
 - Sharing updates on <a href="https://www.facebook.com/nguyentuancoder/">__Facebook__</a> 💼
-- Other products on <a href="">__Behance__</a> 🏓
-- Daily photos on <a href="">__Instagram__</a> 📷
-- "Wibu" collection on <a href="">__Flickr__</a> 👾\
