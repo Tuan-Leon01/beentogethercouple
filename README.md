@@ -11,12 +11,12 @@
 A small thing for my darling !
    
 ## Demo
-[Click here !]()
+[Click here !](https://leon-gaga.netlify.app/)
 
 ## Find me around the web 🌎:
-<a href=""><img align="left" width="150" height="150" src=""> </a>
+<a href="https://www.facebook.com/nguyentuancoder/"><img align="left" width="150" height="150" src=""> </a>
 - Information in public on <a href="">__Blog__</a> ✍🏾
-- Sharing updates on <a href="">__Facebook__</a> 💼
+- Sharing updates on <a href="https://www.facebook.com/nguyentuancoder/">__Facebook__</a> 💼
 - Other products on <a href="">__Behance__</a> 🏓
 - Daily photos on <a href="">__Instagram__</a> 📷
 - "Wibu" collection on <a href="">__Flickr__</a> 👾\
