@@ -20,7 +20,7 @@ $(function () {
         albums = ['Beautiful In White', 'Love Always'], 
         trackNames = ['Shane Filan', 'Love Always'], 
         albumArtworks = ['_1', '_2'], 
-        trackUrl = ['https://tainhac365.org/download-music/294', 
+        trackUrl = ['https://github.com/Tuan-Leon01/beentogethercouple/raw/master/music/BeautifulInWhite.mp3', 
                     'https://data52.chiasenhac.com/downloads/1055/1/1054745-618061e5/320/Make%20You%20Feel%20My%20Love%20-%20Adele.mp3'], 
         playPreviousTrackButton = $('#play-previous'), 
         playNextTrackButton = $('#play-next'), 
