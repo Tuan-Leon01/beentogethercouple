@@ -20,8 +20,8 @@ $(function () {
         albums = ['Em Có thể', 'Vì đó là em.'], 
         trackNames = ['Osad_ VRT', 'Osad'], 
         albumArtworks = ['_1', '_2'], 
-        trackUrl = ['https://github.com/Tuan-Leon01/beentogethercouple/blob/ea9a5399afd00ae6f6b1f507d1679e2d9e916ab5/music/Em%20Co%20The%20-%20Osad_%20VRT.mp3', 
-                    'https://github.com/Tuan-Leon01/beentogethercouple/blob/ea9a5399afd00ae6f6b1f507d1679e2d9e916ab5/music/vidolaem.mp3'], 
+        trackUrl = ['https://github.com/Tuan-Leon01/beentogethercouple/raw/ea9a5399afd00ae6f6b1f507d1679e2d9e916ab5/music/Em%20Co%20The%20-%20Osad_%20VRT.mp3', 
+                    'https://github.com/Tuan-Leon01/beentogethercouple/raw/ea9a5399afd00ae6f6b1f507d1679e2d9e916ab5/music/vidolaem.mp3'], 
         playPreviousTrackButton = $('#play-previous'), 
         playNextTrackButton = $('#play-next'), 
         currIndex = -1;
